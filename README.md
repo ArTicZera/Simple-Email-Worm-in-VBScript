@@ -5,3 +5,4 @@ First, it copies itself to System Folder Path. Then it uses Microsoft Outlook AP
 After that, it sends an email to all contacts in the Outlook address book, which of course contains an attachment with the worm that has copied itself to the System
 
 ![GitHub Logo](1.png)
+![GitHub Logo](2.png)
