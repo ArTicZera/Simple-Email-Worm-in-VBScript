@@ -3,3 +3,6 @@ I made a simple Email-Worm in VBScript that spreads via email, using "MAPI" API 
 # How-it-works?
 First, it copies itself to System Folder Path. Then it uses Microsoft Outlook API (MAPI) to get access to Address Book and all contacts.
 After that, it sends an email to all contacts in the Outlook address book, which of course contains an attachment with the worm that has copied itself to the System
+
+![GitHub Logo](1.png)
+Format: ![Alt Text](url)
