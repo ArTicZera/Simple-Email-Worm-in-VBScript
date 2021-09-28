@@ -1,4 +1,4 @@
-'Simple Email-Worm using MAPI from Microsoft Outlook.
+'Simple Email-Worm that spreads via email, using "MAPI" API from Microsoft Outlook.
 'Made in Visual Basic Script.
 'It works in Microsoft Outlook 2000
 '---------------------------------------------------------
